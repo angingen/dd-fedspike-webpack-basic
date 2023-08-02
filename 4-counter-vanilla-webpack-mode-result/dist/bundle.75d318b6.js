@@ -1,0 +1,2 @@
+(()=>{"use strict";var e;e=0,document.querySelector(".js-counter-button").addEventListener("click",(function(){e=(e=>{throw new Error(e)})(e),document.querySelector(".js-counter-result").innerHTML=e}))})();
+//# sourceMappingURL=bundle.75d318b6.js.map

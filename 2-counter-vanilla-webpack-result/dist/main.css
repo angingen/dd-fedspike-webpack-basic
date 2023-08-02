@@ -1,0 +1,27 @@
+/*!******************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/styles.css ***!
+  \******************************************************************/
+@font-face {
+  font-family: "Recursive";
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: fallback;
+  src: url(a5b2ba44ee5df38cd5b5.woff2) format("woff2");
+}
+
+body {
+  font-family: "Recursive", monospace;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: rgb(74, 32, 210);
+}
+
+.image {
+  width: min(400px, 100%);
+  display: block;
+}
+
